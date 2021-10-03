@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApplication1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="rtl" Type="System.Windows.Forms.RightToLeft" Scope="User">
+      <Value Profile="(Default)">No</Value>
+    </Setting>
+    <Setting Name="font" Type="System.Drawing.Font" Scope="Application">
+      <Value Profile="(Default)">Microsoft Sans Serif, 12pt</Value>
+    </Setting>
+    <Setting Name="FileWord" Type="System.String" Scope="User">
+      <Value Profile="(Default)">file</Value>
+    </Setting>
+    <Setting Name="NewWord" Type="System.String" Scope="User">
+      <Value Profile="(Default)">new</Value>
+    </Setting>
+    <Setting Name="OpenWord" Type="System.String" Scope="User">
+      <Value Profile="(Default)">open</Value>
+    </Setting>
+    <Setting Name="rtlOUT" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
